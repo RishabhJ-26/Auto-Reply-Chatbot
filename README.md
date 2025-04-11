@@ -51,18 +51,24 @@ genai.configure(api_key="YOUR_API_KEY")
 python chatbot.py
 ```
 
-📹 Demo (coming soon...)
+##📹 Demo (coming soon...)
 I'll add a short demo video or GIF soon to show how it works in action!
 
-💬 Why I Made This
+---
+
+## 💬 Why I Made This
 I wanted to explore automation + AI in a fun way, and I thought—what if I could build a bot that chats just like me? So I gave it my personality, my language style (Hinglish ftw 😎), and some basic logic to make conversations feel human.
 
-🙌 Let's Connect
+---
+
+## 🙌 Let's Connect
 If you're into AI, automation, or just like building cool side projects, feel free to connect with me:
 
 GitHub: @RishabhJ-26
 
 LinkedIn: @rishabh-jain-enris
+
+---
 
 If you liked this repo, don’t forget to ⭐ it!
 
