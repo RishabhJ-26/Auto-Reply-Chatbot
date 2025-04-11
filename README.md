@@ -51,7 +51,7 @@ genai.configure(api_key="YOUR_API_KEY")
 python chatbot.py
 ```
 
-##📹 Demo (coming soon...)
+## 📹 Demo (coming soon...)
 I'll add a short demo video or GIF soon to show how it works in action!
 
 ---
