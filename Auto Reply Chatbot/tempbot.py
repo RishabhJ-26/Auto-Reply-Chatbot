@@ -3,7 +3,7 @@ import time
 import pyperclip
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyADvuE98G4MRDkWKswilA_LJOkTmvu1q_g")
+genai.configure(api_key="Api key")
 
 def is_last_message_from_sender(chat_log, sender_name="Rohan Das"):
     messages = chat_log.strip().split("/2024] ")[-1]
