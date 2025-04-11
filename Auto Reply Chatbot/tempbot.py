@@ -5,9 +5,6 @@ import google.generativeai as genai
 
 genai.configure(api_key="Api key")
 
-def is_last_message_from_sender(chat_log, sender_name="Rohan Das"):
-    messages = chat_log.strip().split("/2024] ")[-1]
-    return sender_name in messages
 
 # Step 1: Click on the chrome icon at coordinates (1639, 1412)
 pyautogui.click(1315, 1051)
